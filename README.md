@@ -20,4 +20,4 @@ The `eiid`s are the same with those in TempEval3. Although in the paper above we
 A few remarks:
 - MATRES is only for verb events, so those nominal events in the original TempEval3 won't appear in MATRES.
 - In this repo, we only include relations among those events that are on the main-axis. Please refer to the paper for the definition of main-axis.
-- For other axes and relations, please refer to this [readme file](https://github.com/qiangning/MATRES/rawdata/README.md).
+- For other axes and relations, please refer to this [readme file](https://github.com/qiangning/MATRES/tree/master/rawdata).
