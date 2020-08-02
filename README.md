@@ -17,6 +17,8 @@ docid, verb1, verb2, eiid1, eiid2, relation
 ```
 The `eiid`s are the same with those in TempEval3. Although in the paper above we had only annotated TimeBank-Dense (36 documents), we later extended to the entire TempEval3 dataset. According to TempEval3, the dataset is split into three parts: TimeBank, AQUAINT, and Platinum, each of which has a separate file in this repo.
 
+Note `eiid` is not `eid`. These two id numbers are sometimes inconsistent in TempEval3, so please make sure you're using `eiid` instead of `eid`.
+
 A few remarks:
 - MATRES is only for verb events, so those nominal events in the original TempEval3 won't appear in MATRES.
 - In this repo, we only include relations among those events that are on the main-axis. Please refer to the paper for the definition of main-axis.
