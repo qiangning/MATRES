@@ -23,3 +23,6 @@ A few remarks:
 - MATRES is only for verb events, so those nominal events in the original TempEval3 won't appear in MATRES.
 - In this repo, we only include relations among those events that are on the main-axis. Please refer to the paper for the definition of main-axis.
 - For other axes and relations, please refer to this [readme file](https://github.com/qiangning/MATRES/tree/master/rawdata).
+
+### Update Jan 2022
+Some users have reported to us that the TempEval3 dataset is no longer available online. I do have a copy of TempEval3 from my own project in the past: https://github.com/qiangning/StructTempRel-EMNLP17/tree/master/data/TempEval3
